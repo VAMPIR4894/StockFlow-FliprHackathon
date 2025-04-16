@@ -1,7 +1,7 @@
 import { useToast } from "@/hooks/use-toast";
 
 // Gemini API key
-const API_KEY = "AIzaSyB0DGKZgzgWh9EcQ7xho5i5-3clHWzeqKs"; 
+const API_KEY = "Put-Your-API-Key_here"; 
 
 interface GeminiMessage {
   role: "user" | "model";
